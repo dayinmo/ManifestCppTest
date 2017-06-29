@@ -1,0 +1,16 @@
+{
+	"packageUrl" : "http://192.168.1.10/",
+	"remoteManifestUrl" : "http://192.168.1.10/project.manifest",
+	"remoteVersionUrl" : "http://192.168.1.10/version.manifest",
+	"version" : "0.0.1",
+	"engineVersion" : "3.0 beta",
+
+	"assets" : {
+		"Images/background1.jpg" : {
+			"md5" : "..."
+		}
+	},
+    
+    "searchPaths" : [
+    ]
+}
